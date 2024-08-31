@@ -32,24 +32,7 @@
   - Matplotlib
   - Seaborn
 
-## 설치 및 사용법
 
-### 필수 패키지 설치
-아래 명령어를 사용하여 필요한 패키지를 설치합니다:
-```bash
-pip install pandas numpy scikit-learn tensorflow keras matplotlib seaborn
-
-# Repository 클론
-git clone https://github.com/kkkyuhyun/Machine-Learning.git
-
-# Repository 디렉토리로 이동
-cd Machine-Learning
-
-# 필요 패키지 설치
-pip install -r requirements.txt
-
-# 프로젝트 실행
-python main.py
 
 
 
