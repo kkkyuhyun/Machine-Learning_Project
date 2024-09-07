@@ -1,7 +1,5 @@
 # Machine Learning Project
 
-[![kkkyuhyun's github stats](https://github-readme-stats.vercel.app/api?username=kkkyuhyun)](https://github.com/kkkyuhyun)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkyuhyun&layout=compact)](https://github.com/kkkyuhyun)
 
 ## 소개
 이 프로젝트는 다양한 머신 러닝 기법을 사용하여 날씨 예측 모델을 개발하는 것을 목표로 합니다. 데이터셋에 나와있는 유럽 나라들 중에서 일부 데이터를 추출하여 분석과 머신러닝을 수행합니다.
